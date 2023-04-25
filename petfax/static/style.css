@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Abel&family=Bowlby+One&display=swap');
 :root {
     /* fonts */ 
-    --header-font: 'Bowlby One', impact;
+    --header-font: 'Funky Retro', impact;
     --accent-font: 'Abel', verdana; 
     --body-font: 'ABeeZee', helvetica;
     /* colors */ 
     --light-accent: #F5F3EB; 
-    --main-accent: #7FA4AD;
-    --second-accent: #DE9D49;
+    --main-accent: #05588f;
+    --second-accent: #d4a91a;
 }
 
 /* GENERAL */
@@ -27,7 +27,7 @@ body {
 h1 {
     margin: 0;
     color: var(--main-accent);
-    font-family: 'Bowlby One', impact;
+    font-family: 'Funky Retro', impact;
     font-size: 4em;
     text-align: center;
 }
